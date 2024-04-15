@@ -1,0 +1,4 @@
+/home/lei/computer-network/day1/build/CMakeFiles/rebuild_cache.dir
+/home/lei/computer-network/day1/build/CMakeFiles/edit_cache.dir
+/home/lei/computer-network/day1/build/CMakeFiles/server.dir
+/home/lei/computer-network/day1/build/CMakeFiles/client.dir

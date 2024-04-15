@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lei/computer-network/day1/server.cpp
+sys/socket.h
+-
+arpa/inet.h
+-
+iostream
+-
+cstdlib
+-
+cstring
+-
+
