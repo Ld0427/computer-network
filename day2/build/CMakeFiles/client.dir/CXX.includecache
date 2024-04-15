@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/erroif.h
+
+/home/lei/computer-network/day2/src/client.cpp
+sys/socket.h
+-
+arpa/inet.h
+-
+erroif.h
+/home/lei/computer-network/day2/src/erroif.h
+cstdlib
+-
+cstring
+-
+unistd.h
+-
+iostream
+-
+

@@ -1,0 +1,5 @@
+/home/lei/computer-network/day2/build/CMakeFiles/rebuild_cache.dir
+/home/lei/computer-network/day2/build/CMakeFiles/edit_cache.dir
+/home/lei/computer-network/day2/build/CMakeFiles/server.dir
+/home/lei/computer-network/day2/build/CMakeFiles/client.dir
+/home/lei/computer-network/day2/build/CMakeFiles/erroif.dir

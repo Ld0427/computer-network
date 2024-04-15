@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g  -shared -Wl,-soname,liberroif.so -o liberroif.so CMakeFiles/erroif.dir/src/erroif.cpp.o 

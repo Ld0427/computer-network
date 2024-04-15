@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/client.dir/src/client.cpp.o  -o client  -Wl,-rpath,/home/lei/computer-network/day2/build liberroif.so 
